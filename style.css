@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://cybertools.bitflan.com/images/main-bg.png);
+    background-color: #73bcfb;
+    background-size: cover;
+    font-size: 16px;
+    overflow-x: hidden;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.card {
+    height: 100%;
+}
+
+.card-content h1 {
+    margin-bottom: 8px;
+}
+
+.card-header-icon {
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+
+.card-header-icon svg {
+    background-color: #f2f1fb;
+    padding: 12px;
+    width: 55px;
+    height: 55px;
+    border-radius: 10%;
+    margin-bottom: 12px;
+}
+
+.box{
+    background-image: url(https://cybertools.bitflan.com/images/inner-bg.png);
+    background-color: #f9f9fb;;
+    background-repeat: no-repeat;
+    background-position: top right;
+    border-radius: 24px;
+}
+
+.card-header-icons svg{
+    padding: 12px;
+    border-radius: 16%;
+    background-color: #4c3ff2;
+    width: 55px;
+    height: 55px;
+}
