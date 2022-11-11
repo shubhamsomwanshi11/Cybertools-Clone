@@ -47,10 +47,10 @@ body {
     height: 55px;
 }
 
-.navbar-end a{
+.navbar-ends a{
     font-weight:bold;
     color: white;
 }
-.navbar-end img{
+.navbar-ends img{
     border-radius: 50%;
 }
