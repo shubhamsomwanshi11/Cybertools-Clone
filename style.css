@@ -46,3 +46,11 @@ body {
     width: 55px;
     height: 55px;
 }
+
+.navbar-end a{
+    font-weight:bold;
+    color: white;
+}
+.navbar-end img{
+    border-radius: 50%;
+}
